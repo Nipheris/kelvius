@@ -1,0 +1,9 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio 2015+ cache/options directory
+.vs/
+
+# NuGet Packages Directory
+packages/
