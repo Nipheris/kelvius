@@ -10,8 +10,6 @@ namespace Kelvius.Shell
 		public MainWindow()
 		{
 			InitializeComponent();
-
-			this.DataContext = new MainViewModel();
 		}
 
 		private void celsiusTextBox_GotFocus(object sender, RoutedEventArgs e)
